@@ -145,14 +145,14 @@
 				{
 					html: `<div class="contact-item">
                     <i class="fas fa-envelope"></i>
-                    <a href="mailto:service@crazyjerry.studio">service@crazyjerry.studio</a>
+                    <a class="ml-2" href="mailto:service@crazyjerry.studio">service@crazyjerry.studio</a>
                 </div>`,
 					delay: 30,
 				},
 				{
 					html: `<div class="contact-item">
                     <i class="fab fa-linkedin"></i>
-                    <a href="https://tw.linkedin.com/in/%E6%9B%B8%E8%B3%A2-%E6%9E%97-609169ab" target="_blank">LinkedIn Profile</a>
+                    <a class="ml-2" href="https://tw.linkedin.com/in/%E6%9B%B8%E8%B3%A2-%E6%9E%97-609169ab" target="_blank">LinkedIn Profile</a>
                 </div>`,
 					delay: 30,
 				},
@@ -417,7 +417,7 @@
 				setTimeout(() => {
 					if (isAlreadyAtBottom) {
 						terminalBody.scrollBy({
-							top: 100,
+							top: 200,
 							behavior: "smooth",
 						});
 					} else {
