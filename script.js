@@ -385,7 +385,7 @@
                             <a href="https://linktr.ee/crazyjerry" target="_blank" class="btn-primary">
                                 <i class="fas fa-link mr-2"></i>All Social Links
                             </a>
-                            <a href="https://crazyjerry.studio/" target="_blank" class="btn-primary">
+                            <a href="https://blog.jerryzheli.com/" target="_blank" class="btn-primary">
                                 <i class="fas fa-home mr-2"></i>Personal Website
                             </a>
                             <a href="https://www.instagram.com/_jerry_lin/" target="_blank" class="btn-primary">
