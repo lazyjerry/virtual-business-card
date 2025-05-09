@@ -71,7 +71,7 @@
 				{ text: "TAIPEI, TAIWAN", delay: 70, style: "color: #0ff" },
 				{ text: "\n", delay: 50 },
 				{ text: "> STATUS: ", delay: 20 },
-				{ text: "ACTIVE // SECURITY CLEARANCE: GAMMA", delay: 50, style: "color: #0f0" },
+				{ text: "ACTIVE // SECURITY CLEARANCE: ALPHA", delay: 50, style: "color: #0f0" },
 				{ text: "\n\n", delay: 100 },
 				{ text: ">> SKILL MATRIX <<", delay: 10, style: "color: #b19cd9; text-decoration: underline" },
 				{ text: "\n", delay: 100 },
