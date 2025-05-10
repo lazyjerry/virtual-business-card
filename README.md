@@ -1,4 +1,4 @@
-# Jerry Terminal - Personal Terminal Card
+# SHU-HSIEN LIN's CYBER TERMINAL - Personal Terminal Card
 
 🖥️ 一個以終端機風格呈現的個人介紹頁面，靈感來自 [nz03's Cyber Terminal on Hugging Face](https://huggingface.co/spaces/nz03/nz03)，並依照個人需求進行重製與擴充，適合用作個人名片、社群分享與技術形象展示。
 
