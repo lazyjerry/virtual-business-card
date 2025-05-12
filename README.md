@@ -2,6 +2,7 @@
 
 🖥️ 一個以終端機風格呈現的個人介紹頁面，靈感來自 [nz03's Cyber Terminal on Hugging Face](https://huggingface.co/spaces/nz03/nz03)，並依照個人需求進行重製與擴充，適合用作個人名片、社群分享與技術形象展示。
 
+Demo [請點我](https://goblinapp.com)
 ## 🔧 修改說明
 
 本專案原始為 nz03 於 Hugging Face Spaces 發布之 Cyber Terminal 頁面，使用 Canvas 與 JavaScript 實作了 Matrix 背景動畫與打字效果。本版本基於其 HTML 結構與邏輯：
