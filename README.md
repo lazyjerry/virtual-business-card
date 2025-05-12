@@ -18,7 +18,7 @@
 - 可嵌入至 GitHub Pages、個人網站首頁，或分享於社群平台
 
 ## 📁 專案結構
-
+```
 html/
 ├── index.html # 主頁面
 ├── script.js # Matrix 背景動畫與終端打字邏輯
@@ -27,7 +27,7 @@ html/
 ├── logo.png # Favicon
 ├── LICENSE # Apache 2.0 授權條款
 └── README.md # 專案說明文件
-
+```
 ## 🔑 授權條款
 
 本專案原始程式碼採用 **Apache License 2.0**，您可以自由地使用、修改與發佈本頁面，但請保留原始授權與來源註記。
